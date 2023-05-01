@@ -33,7 +33,7 @@ Glasp is a free browser extension-based social web highlighter that is easy to u
 * Click on **Sign up (beta)** and click Continue With Google.
 ![glasp signup](glasp%20signup.png)
 
-![Sign up2](images/glasp%20signup%202.png)
+![Sign up2](glasp%20signup%202.png)
 
 **Hint:** After signing up Browser will redirect you to the Chrome web store or goto [Chrome web store](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik). 
 
