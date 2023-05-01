@@ -32,16 +32,16 @@ Glasp is a free browser extension-based social web highlighter that is easy to u
 ### Signup for Glasp
 * On your web  browser type glasp.co or **click [home](https://glasp.co/)**
 * Click on **Sign up (beta)** and click Continue With Google.
-![Sign up](images\glasp%20signup.png)
+![Sign up](glasp%20signup.png)
 
-![Sign up2](images/glasp%20signup%202.png)
+![Sign up2](glasp%20signup%202.png)
 
 **Hint:** After signing up Browser will redirect you to the Chrome web store or goto [Chrome web store](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik). 
 
 ### Adding Glasp to Chrome
 * Click on **Add to Chrome**. Glasp is automatically downloaded and installed. 
 
-![add glasp to chrome](images/add%20glasp.png)
+![add glasp to chrome](add%20glasp.png)
 * Select Add extension from the pop-up.
 
 **Hint:** Glasp downloads and automatically installs and redirects you to a welcome page.
@@ -49,21 +49,21 @@ Glasp is a free browser extension-based social web highlighter that is easy to u
 * Pin Glasp extension by clicking on the **extension icon** at the top right page.
 * Select **pin** on the Glasp extension and Glaps is added
 
-![Glasp pin](images/glasp%20pin1.png)
+![Glasp pin](glasp%20pin1.png)
 
 ### Customize Glasp
 
-![sign in](images/glasp%20signin.png)
+![sign in](glasp%20signin.png)
 
 
 * Click on the **Home Icon**.
 
-![glasp first home](images/glasp%20first%20home.png)
+![glasp first home](glasp%20first%20home.png)
 
 * Select your ten (10) favorite topics. This is used to customize your feeds. 
 * Select  **Your topics** to change and find more topics you are interested in.
 
-![glasp home main](images/glasp%20home%20main.png)
+![glasp home main](glasp%20home%20main.png)
 
 ### Using Glasp in Chrome
 
@@ -71,16 +71,16 @@ Glasp is a free browser extension-based social web highlighter that is easy to u
 * Select the text you want to highlight using your mouse.
 * Select the highlight color from the Glasp pop-up highlighter tool.
 
-![highlight](images/glasp%20first%20highlight%202.png)
+![highlight](glasp%20first%20highlight%202.png)
 
 * Remove a highlight by clicking on the **highlighted area**  ➡️ **Close** from the pop-up
 
-![glasp close](images/glasp%20close.png)
+![glasp close](glasp%20close.png)
 
 * Open **My Highlights** tab on the Glasp page.
 
 
-![my highligt](images/annotely_image.png)
+![my highligt](annotely_image.png)
 
 * **Add a tag:** Click on the **Empty tag** ➡️t**ype the name + enter**. 
 * **Delete page:** Click on the  **three dots** at the top right corner. 
@@ -95,7 +95,7 @@ Glasp is a free browser extension-based social web highlighter that is easy to u
 
 #### Download and Export your Highlights
 
-![download and share](images/glasp%20download%20and%20share.png)
+![download and share](glasp%20download%20and%20share.png)
 
 * Go to your Glasp profile  My Highlights ➡️ Articles. 
 * Click on S**hare Content** beside the **three dots** at the top right corner.
